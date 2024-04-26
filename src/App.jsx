@@ -1,6 +1,7 @@
 import Auth from "./components/auth"
+import './App.css'
 
-function App() {
+const App = () => {
 
   return (
     <div>
